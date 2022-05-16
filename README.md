@@ -1,7 +1,5 @@
 - Hi, I’m Gleydson!
 - I’m interested in quantum computing.
-- I’m currently learning quantum algorithms.
-- I’m looking to collaborate on quantum projects.
 - How to reach me: gleydsonfernandes@protonmail.com
 
 <!---
